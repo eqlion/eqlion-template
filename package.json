@@ -1,0 +1,30 @@
+{
+    "name": "eqlion-template",
+    "version": "0.0.1",
+    "description": "Personal React Native template fot bootstrapping an app",
+    "scripts": {
+        "test": "exit 0",
+        "prepublishOnly": "npm --no-git-tag-version version $TRAVIS_TAG"
+    },
+    "files": [
+        "template",
+        "template.config.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/eqlion/eqlion-template.git"
+    },
+    "keywords": [
+        "react-native",
+        "typescript",
+        "jest",
+        "template",
+        "boilerplate"
+    ],
+    "author": "Nikolay Lapa <lapanicholas@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/eqlion/eqlion-template/issues"
+    },
+    "homepage": "https://github.com/eqlion/eqlion-template#readme"
+}
