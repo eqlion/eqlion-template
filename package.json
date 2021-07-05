@@ -26,5 +26,8 @@
     "bugs": {
         "url": "https://github.com/eqlion/eqlion-template/issues"
     },
-    "homepage": "https://github.com/eqlion/eqlion-template#readme"
+    "homepage": "https://github.com/eqlion/eqlion-template#readme",
+    "dependencies": {
+        "react-native-safe-area-context": "^3.2.0"
+    }
 }
